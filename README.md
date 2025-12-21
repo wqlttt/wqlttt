@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## My GitHub Snake 🐍
+
+![Snake animation](https://github.com/wqlttt/wqlttt/blob/output/github-contribution-grid-snake.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/wqlttt/wqlttt/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/wqlttt/wqlttt/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/wqlttt/wqlttt/blob/output/github-contribution-grid-snake.svg">
+</picture>
