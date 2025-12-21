@@ -2,29 +2,29 @@ name: Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"      # UTC 00:00 每天一次
-  workflow_dispatch:         # 手动按钮
+    - cron: "0 0 * * *"        # 每天 UTC 00:00
+  workflow_dispatch:           # 手动按钮
   push:
-    branches: [ main ]        # 你的默认分支；如果是 master 就写 [master]
+    branches: [ main ]          # 你的默认分支
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write         # 必须：把 svg 推到别的分支
+      contents: write
     steps:
-      - uses: actions/checkout@v4   # 拉代码（非必须，但避免空仓库警告）
+      - uses: actions/checkout@v4
 
       - uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: wqlttt      # 固定写死
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Deploy 🐍
-        uses: peaceiris/actions-gh-pages@v3   # 更轻量，也能推到 output 分支
+        uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: output              # SVG 存放分支
+          publish_branch: output   # 存放 SVG 的分支
           publish_dir: ./dist
