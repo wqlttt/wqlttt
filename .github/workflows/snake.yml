@@ -2,10 +2,10 @@ name: Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"        # 每天 UTC 00:00
+    - cron: "0 0 * * *"        # 每天 UTC 00:00 自动跑
   workflow_dispatch:           # 手动按钮
   push:
-    branches: [ main ]          # 你的默认分支
+    branches: [ main ]          # 默认分支
 
 jobs:
   build:
@@ -17,14 +17,15 @@ jobs:
 
       - uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: wqlttt      # 固定写死
+          github_user_name: wqlttt
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          duration: 365          # 一整年，关键行
 
       - name: Deploy 🐍
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: output   # 存放 SVG 的分支
+          publish_branch: output
           publish_dir: ./dist
