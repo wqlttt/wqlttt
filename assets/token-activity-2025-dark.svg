@@ -380,10 +380,10 @@
 <text x="0" y="206.6" font-size="12.5" fill="#9A9AA3">Companies</text>
 <circle cx="81.0" cy="202.1" r="4.5" fill="#9A9EC9"/>
 <text x="92.0" y="206.6" font-size="13"><tspan fill="#E6E6EA" font-weight="500">OpenAI</tspan><tspan fill="#9A9AA3" dx="6">65.0%</tspan></text>
-<circle cx="209.8" cy="202.1" r="4.5" fill="#B8AD98"/>
-<text x="220.8" y="206.6" font-size="13"><tspan fill="#E6E6EA" font-weight="500">Cursor</tspan><tspan fill="#9A9AA3" dx="6">31.5%</tspan></text>
-<circle cx="338.6" cy="202.1" r="4.5" fill="#E58A6B"/>
-<text x="349.6" y="206.6" font-size="13"><tspan fill="#E6E6EA" font-weight="500">Anthropic</tspan><tspan fill="#9A9AA3" dx="6">3.5%</tspan></text>
+<circle cx="193.0" cy="202.1" r="4.5" fill="#B8AD98"/>
+<text x="204.0" y="206.6" font-size="13"><tspan fill="#E6E6EA" font-weight="500">Cursor</tspan><tspan fill="#9A9AA3" dx="6">31.5%</tspan></text>
+<circle cx="305.0" cy="202.1" r="4.5" fill="#E58A6B"/>
+<text x="316.0" y="206.6" font-size="13"><tspan fill="#E6E6EA" font-weight="500">Anthropic</tspan><tspan fill="#9A9AA3" dx="6">3.5%</tspan></text>
 <text x="746.4" y="234.6" font-size="11.5" fill="#9A9AA3" text-anchor="end">Less</text>
 <rect x="750.4" y="224.6" width="11" height="11" rx="2.6" fill="#24242A"/>
 <rect x="763.9" y="224.6" width="11" height="11" rx="2.6" fill="#4A2A1E"/>
