@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 855 241" width="855" height="241" role="img" aria-label="Token activity heatmap for 2026: 10.4B tokens. Companies: Anthropic 48.7%, DeepSeek 29.2%, Antigravity 7.3%, OpenAI 6.4%, Cursor 6.1%, Other 2.2%." font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif'>
-<text x="855" y="24" font-size="13" text-anchor="end"><tspan fill="#E6E6EA" font-weight="600">10.4B</tspan><tspan fill="#9A9AA3" dx="5">tokens in 2026</tspan></text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 855 241" width="855" height="241" role="img" aria-label="Token activity heatmap for 2026: 11.3B tokens. Companies: Anthropic 45.3%, DeepSeek 26.9%, Cursor 11.0%, Antigravity 6.7%, OpenAI 5.8%, Other 4.2%." font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif'>
+<text x="855" y="24" font-size="13" text-anchor="end"><tspan fill="#E6E6EA" font-weight="600">11.3B</tspan><tspan fill="#9A9AA3" dx="5">tokens in 2026</tspan></text>
 <rect x="0.0" y="110.8" width="13.0" height="13.0" rx="3.2" fill="#24242A"/>
 <rect x="0.0" y="127.0" width="13.0" height="13.0" rx="3.2" fill="#24242A"/>
 <rect x="0.0" y="143.2" width="13.0" height="13.0" rx="3.2" fill="#4A2A1E"><title>2026-01-03: 965,194 tokens</title></rect>
@@ -83,9 +83,9 @@
 <rect x="194.4" y="46.0" width="13.0" height="13.0" rx="3.2" fill="#B0552D"><title>2026-03-22: 20,329,826 tokens</title></rect>
 <rect x="194.4" y="62.2" width="13.0" height="13.0" rx="3.2" fill="#7A3E25"><title>2026-03-23: 4,256,579 tokens</title></rect>
 <rect x="194.4" y="78.4" width="13.0" height="13.0" rx="3.2" fill="#7A3E25"><title>2026-03-24: 5,622,527 tokens</title></rect>
-<rect x="194.4" y="94.6" width="13.0" height="13.0" rx="3.2" fill="#DE7441"><title>2026-03-25: 33,972,580 tokens</title></rect>
+<rect x="194.4" y="94.6" width="13.0" height="13.0" rx="3.2" fill="#B0552D"><title>2026-03-25: 33,972,580 tokens</title></rect>
 <rect x="194.4" y="110.8" width="13.0" height="13.0" rx="3.2" fill="#B0552D"><title>2026-03-26: 14,069,541 tokens</title></rect>
-<rect x="194.4" y="127.0" width="13.0" height="13.0" rx="3.2" fill="#B0552D"><title>2026-03-27: 12,054,463 tokens</title></rect>
+<rect x="194.4" y="127.0" width="13.0" height="13.0" rx="3.2" fill="#7A3E25"><title>2026-03-27: 12,054,463 tokens</title></rect>
 <rect x="194.4" y="143.2" width="13.0" height="13.0" rx="3.2" fill="#B0552D"><title>2026-03-28: 29,246,554 tokens</title></rect>
 <rect x="210.6" y="46.0" width="13.0" height="13.0" rx="3.2" fill="#7A3E25"><title>2026-03-29: 6,451,210 tokens</title></rect>
 <rect x="210.6" y="62.2" width="13.0" height="13.0" rx="3.2" fill="#24242A"/>
@@ -160,7 +160,7 @@
 <rect x="372.6" y="46.0" width="13.0" height="13.0" rx="3.2" fill="#DE7441"><title>2026-06-07: 72,673,753 tokens</title></rect>
 <rect x="372.6" y="62.2" width="13.0" height="13.0" rx="3.2" fill="#B0552D"><title>2026-06-08: 29,078,174 tokens</title></rect>
 <rect x="372.6" y="78.4" width="13.0" height="13.0" rx="3.2" fill="#B0552D"><title>2026-06-09: 19,109,317 tokens</title></rect>
-<rect x="372.6" y="94.6" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-06-10: 76,445,301 tokens</title></rect>
+<rect x="372.6" y="94.6" width="13.0" height="13.0" rx="3.2" fill="#DE7441"><title>2026-06-10: 76,445,301 tokens</title></rect>
 <rect x="372.6" y="110.8" width="13.0" height="13.0" rx="3.2" fill="#DE7441"><title>2026-06-11: 38,907,623 tokens</title></rect>
 <rect x="372.6" y="127.0" width="13.0" height="13.0" rx="3.2" fill="#4A2A1E"><title>2026-06-12: 1,950,174 tokens</title></rect>
 <rect x="372.6" y="143.2" width="13.0" height="13.0" rx="3.2" fill="#24242A"/>
@@ -185,12 +185,12 @@
 <rect x="421.2" y="110.8" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-07-02: 98,612,638 tokens</title></rect>
 <rect x="421.2" y="127.0" width="13.0" height="13.0" rx="3.2" fill="#7A3E25"><title>2026-07-03: 7,141,994 tokens</title></rect>
 <rect x="421.2" y="143.2" width="13.0" height="13.0" rx="3.2" fill="#B0552D"><title>2026-07-04: 20,608,986 tokens</title></rect>
-<rect x="437.4" y="46.0" width="13.0" height="13.0" rx="3.2" fill="#DE7441"><title>2026-07-05: 33,649,209 tokens</title></rect>
-<rect x="437.4" y="62.2" width="13.0" height="13.0" rx="3.2" fill="#DE7441"><title>2026-07-06: 33,598,548 tokens</title></rect>
+<rect x="437.4" y="46.0" width="13.0" height="13.0" rx="3.2" fill="#B0552D"><title>2026-07-05: 33,649,209 tokens</title></rect>
+<rect x="437.4" y="62.2" width="13.0" height="13.0" rx="3.2" fill="#B0552D"><title>2026-07-06: 33,598,548 tokens</title></rect>
 <rect x="437.4" y="78.4" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-07-07: 137,902,882 tokens</title></rect>
 <rect x="437.4" y="94.6" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-07-08: 280,189,234 tokens</title></rect>
 <rect x="437.4" y="110.8" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-07-09: 352,120,916 tokens</title></rect>
-<rect x="437.4" y="127.0" width="13.0" height="13.0" rx="3.2" fill="#DE7441"><title>2026-07-10: 33,092,012 tokens</title></rect>
+<rect x="437.4" y="127.0" width="13.0" height="13.0" rx="3.2" fill="#B0552D"><title>2026-07-10: 33,092,012 tokens</title></rect>
 <rect x="437.4" y="143.2" width="13.0" height="13.0" rx="3.2" fill="#24242A"/>
 <rect x="453.6" y="46.0" width="13.0" height="13.0" rx="3.2" fill="#7A3E25"><title>2026-07-12: 3,682,365 tokens</title></rect>
 <rect x="453.6" y="62.2" width="13.0" height="13.0" rx="3.2" fill="#B0552D"><title>2026-07-13: 14,520,786 tokens</title></rect>
@@ -236,43 +236,43 @@
 <rect x="534.6" y="143.2" width="13.0" height="13.0" rx="3.2" fill="#24242A"/>
 <rect x="550.8" y="46.0" width="13.0" height="13.0" rx="3.2" fill="#4A2A1E"><title>2026-08-23: 250,580 tokens</title></rect>
 <rect x="550.8" y="62.2" width="13.0" height="13.0" rx="3.2" fill="#B0552D"><title>2026-08-24: 28,272,061 tokens</title></rect>
-<rect x="550.8" y="78.4" width="13.0" height="13.0" rx="3.2" fill="#7A3E25"><title>2026-08-25: 4,359,030 tokens</title></rect>
-<rect x="550.8" y="94.6" width="13.0" height="13.0" rx="3.2" fill="#B0552D"><title>2026-08-26: 17,639,435 tokens</title></rect>
-<rect x="550.8" y="110.8" width="13.0" height="13.0" rx="3.2" fill="#DE7441"><title>2026-08-27: 34,841,744 tokens</title></rect>
-<rect x="550.8" y="127.0" width="13.0" height="13.0" rx="3.2" fill="#B0552D"><title>2026-08-28: 27,565,229 tokens</title></rect>
+<rect x="550.8" y="78.4" width="13.0" height="13.0" rx="3.2" fill="#7A3E25"><title>2026-08-25: 8,718,060 tokens</title></rect>
+<rect x="550.8" y="94.6" width="13.0" height="13.0" rx="3.2" fill="#DE7441"><title>2026-08-26: 35,278,870 tokens</title></rect>
+<rect x="550.8" y="110.8" width="13.0" height="13.0" rx="3.2" fill="#DE7441"><title>2026-08-27: 68,145,357 tokens</title></rect>
+<rect x="550.8" y="127.0" width="13.0" height="13.0" rx="3.2" fill="#DE7441"><title>2026-08-28: 55,130,458 tokens</title></rect>
 <rect x="550.8" y="143.2" width="13.0" height="13.0" rx="3.2" fill="#24242A"/>
 <rect x="567.0" y="46.0" width="13.0" height="13.0" rx="3.2" fill="#7A3E25"><title>2026-08-30: 4,166,648 tokens</title></rect>
-<rect x="567.0" y="62.2" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-08-31: 106,459,703 tokens</title></rect>
-<rect x="567.0" y="78.4" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-09-01: 106,395,509 tokens</title></rect>
-<rect x="567.0" y="94.6" width="13.0" height="13.0" rx="3.2" fill="#DE7441"><title>2026-09-02: 38,951,006 tokens</title></rect>
-<rect x="567.0" y="110.8" width="13.0" height="13.0" rx="3.2" fill="#DE7441"><title>2026-09-03: 57,746,374 tokens</title></rect>
-<rect x="567.0" y="127.0" width="13.0" height="13.0" rx="3.2" fill="#DE7441"><title>2026-09-04: 63,123,418 tokens</title></rect>
+<rect x="567.0" y="62.2" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-08-31: 199,660,738 tokens</title></rect>
+<rect x="567.0" y="78.4" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-09-01: 128,180,380 tokens</title></rect>
+<rect x="567.0" y="94.6" width="13.0" height="13.0" rx="3.2" fill="#DE7441"><title>2026-09-02: 55,655,795 tokens</title></rect>
+<rect x="567.0" y="110.8" width="13.0" height="13.0" rx="3.2" fill="#DE7441"><title>2026-09-03: 67,007,229 tokens</title></rect>
+<rect x="567.0" y="127.0" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-09-04: 111,644,104 tokens</title></rect>
 <rect x="567.0" y="143.2" width="13.0" height="13.0" rx="3.2" fill="#24242A"/>
 <rect x="583.2" y="46.0" width="13.0" height="13.0" rx="3.2" fill="#24242A"/>
-<rect x="583.2" y="62.2" width="13.0" height="13.0" rx="3.2" fill="#DE7441"><title>2026-09-07: 71,863,427 tokens</title></rect>
-<rect x="583.2" y="78.4" width="13.0" height="13.0" rx="3.2" fill="#B0552D"><title>2026-09-08: 31,168,031 tokens</title></rect>
+<rect x="583.2" y="62.2" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-09-07: 115,679,727 tokens</title></rect>
+<rect x="583.2" y="78.4" width="13.0" height="13.0" rx="3.2" fill="#DE7441"><title>2026-09-08: 37,847,205 tokens</title></rect>
 <rect x="583.2" y="94.6" width="13.0" height="13.0" rx="3.2" fill="#B0552D"><title>2026-09-09: 24,954,822 tokens</title></rect>
-<rect x="583.2" y="110.8" width="13.0" height="13.0" rx="3.2" fill="#7A3E25"><title>2026-09-10: 7,684,479 tokens</title></rect>
-<rect x="583.2" y="127.0" width="13.0" height="13.0" rx="3.2" fill="#DE7441"><title>2026-09-11: 31,903,493 tokens</title></rect>
+<rect x="583.2" y="110.8" width="13.0" height="13.0" rx="3.2" fill="#B0552D"><title>2026-09-10: 14,249,618 tokens</title></rect>
+<rect x="583.2" y="127.0" width="13.0" height="13.0" rx="3.2" fill="#DE7441"><title>2026-09-11: 41,608,452 tokens</title></rect>
 <rect x="583.2" y="143.2" width="13.0" height="13.0" rx="3.2" fill="#DE7441"><title>2026-09-12: 45,346,835 tokens</title></rect>
-<rect x="599.4" y="46.0" width="13.0" height="13.0" rx="3.2" fill="#DE7441"><title>2026-09-13: 67,221,723 tokens</title></rect>
-<rect x="599.4" y="62.2" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-09-14: 80,215,060 tokens</title></rect>
-<rect x="599.4" y="78.4" width="13.0" height="13.0" rx="3.2" fill="#DE7441"><title>2026-09-15: 66,626,261 tokens</title></rect>
-<rect x="599.4" y="94.6" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-09-16: 136,045,609 tokens</title></rect>
-<rect x="599.4" y="110.8" width="13.0" height="13.0" rx="3.2" fill="#B0552D"><title>2026-09-17: 13,923,924 tokens</title></rect>
-<rect x="599.4" y="127.0" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-09-18: 150,061,216 tokens</title></rect>
+<rect x="599.4" y="46.0" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-09-13: 103,933,970 tokens</title></rect>
+<rect x="599.4" y="62.2" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-09-14: 129,519,155 tokens</title></rect>
+<rect x="599.4" y="78.4" width="13.0" height="13.0" rx="3.2" fill="#DE7441"><title>2026-09-15: 69,148,962 tokens</title></rect>
+<rect x="599.4" y="94.6" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-09-16: 176,324,595 tokens</title></rect>
+<rect x="599.4" y="110.8" width="13.0" height="13.0" rx="3.2" fill="#B0552D"><title>2026-09-17: 15,256,962 tokens</title></rect>
+<rect x="599.4" y="127.0" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-09-18: 152,604,781 tokens</title></rect>
 <rect x="599.4" y="143.2" width="13.0" height="13.0" rx="3.2" fill="#DE7441"><title>2026-09-19: 65,400,234 tokens</title></rect>
-<rect x="615.6" y="46.0" width="13.0" height="13.0" rx="3.2" fill="#DE7441"><title>2026-09-20: 42,677,853 tokens</title></rect>
+<rect x="615.6" y="46.0" width="13.0" height="13.0" rx="3.2" fill="#DE7441"><title>2026-09-20: 43,263,040 tokens</title></rect>
 <rect x="615.6" y="62.2" width="13.0" height="13.0" rx="3.2" fill="#DE7441"><title>2026-09-21: 57,526,577 tokens</title></rect>
-<rect x="615.6" y="78.4" width="13.0" height="13.0" rx="3.2" fill="#B0552D"><title>2026-09-22: 21,905,889 tokens</title></rect>
-<rect x="615.6" y="94.6" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-09-23: 115,437,404 tokens</title></rect>
-<rect x="615.6" y="110.8" width="13.0" height="13.0" rx="3.2" fill="#DE7441"><title>2026-09-24: 35,195,314 tokens</title></rect>
+<rect x="615.6" y="78.4" width="13.0" height="13.0" rx="3.2" fill="#DE7441"><title>2026-09-22: 36,061,003 tokens</title></rect>
+<rect x="615.6" y="94.6" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-09-23: 116,247,253 tokens</title></rect>
+<rect x="615.6" y="110.8" width="13.0" height="13.0" rx="3.2" fill="#B0552D"><title>2026-09-24: 35,195,314 tokens</title></rect>
 <rect x="615.6" y="127.0" width="13.0" height="13.0" rx="3.2" fill="#24242A"/>
 <rect x="615.6" y="143.2" width="13.0" height="13.0" rx="3.2" fill="#24242A"/>
 <rect x="631.8" y="46.0" width="13.0" height="13.0" rx="3.2" fill="#24242A"/>
 <rect x="631.8" y="62.2" width="13.0" height="13.0" rx="3.2" fill="#DE7441"><title>2026-09-28: 47,746,669 tokens</title></rect>
 <rect x="631.8" y="78.4" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-09-29: 90,325,331 tokens</title></rect>
-<rect x="631.8" y="94.6" width="13.0" height="13.0" rx="3.2" fill="#DE7441"><title>2026-09-30: 35,307,622 tokens</title></rect>
+<rect x="631.8" y="94.6" width="13.0" height="13.0" rx="3.2" fill="#DE7441"><title>2026-09-30: 36,603,377 tokens</title></rect>
 <rect x="631.8" y="110.8" width="13.0" height="13.0" rx="3.2" fill="#4A2A1E"><title>2026-10-01: 1,954,345 tokens</title></rect>
 <rect x="631.8" y="127.0" width="13.0" height="13.0" rx="3.2" fill="#24242A"/>
 <rect x="631.8" y="143.2" width="13.0" height="13.0" rx="3.2" fill="#24242A"/>
@@ -282,32 +282,32 @@
 <rect x="648.0" y="94.6" width="13.0" height="13.0" rx="3.2" fill="#24242A"/>
 <rect x="648.0" y="110.8" width="13.0" height="13.0" rx="3.2" fill="#B0552D"><title>2026-10-08: 21,841,199 tokens</title></rect>
 <rect x="648.0" y="127.0" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-10-09: 137,955,910 tokens</title></rect>
-<rect x="648.0" y="143.2" width="13.0" height="13.0" rx="3.2" fill="#DE7441"><title>2026-10-10: 50,724,923 tokens</title></rect>
+<rect x="648.0" y="143.2" width="13.0" height="13.0" rx="3.2" fill="#DE7441"><title>2026-10-10: 78,963,911 tokens</title></rect>
 <rect x="664.2" y="46.0" width="13.0" height="13.0" rx="3.2" fill="#4A2A1E"><title>2026-10-11: 537,836 tokens</title></rect>
-<rect x="664.2" y="62.2" width="13.0" height="13.0" rx="3.2" fill="#DE7441"><title>2026-10-12: 64,537,984 tokens</title></rect>
-<rect x="664.2" y="78.4" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-10-13: 98,768,802 tokens</title></rect>
-<rect x="664.2" y="94.6" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-10-14: 248,251,691 tokens</title></rect>
-<rect x="664.2" y="110.8" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-10-15: 149,600,921 tokens</title></rect>
-<rect x="664.2" y="127.0" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-10-16: 291,377,610 tokens</title></rect>
+<rect x="664.2" y="62.2" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-10-12: 105,542,238 tokens</title></rect>
+<rect x="664.2" y="78.4" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-10-13: 148,457,177 tokens</title></rect>
+<rect x="664.2" y="94.6" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-10-14: 279,360,872 tokens</title></rect>
+<rect x="664.2" y="110.8" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-10-15: 155,412,255 tokens</title></rect>
+<rect x="664.2" y="127.0" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-10-16: 291,934,229 tokens</title></rect>
 <rect x="664.2" y="143.2" width="13.0" height="13.0" rx="3.2" fill="#DE7441"><title>2026-10-17: 56,300,879 tokens</title></rect>
-<rect x="680.4" y="46.0" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-10-18: 155,048,002 tokens</title></rect>
-<rect x="680.4" y="62.2" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-10-19: 227,008,318 tokens</title></rect>
-<rect x="680.4" y="78.4" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-10-20: 107,307,083 tokens</title></rect>
-<rect x="680.4" y="94.6" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-10-21: 160,746,034 tokens</title></rect>
+<rect x="680.4" y="46.0" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-10-18: 215,049,841 tokens</title></rect>
+<rect x="680.4" y="62.2" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-10-19: 345,076,593 tokens</title></rect>
+<rect x="680.4" y="78.4" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-10-20: 117,812,750 tokens</title></rect>
+<rect x="680.4" y="94.6" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-10-21: 179,468,951 tokens</title></rect>
 <rect x="680.4" y="110.8" width="13.0" height="13.0" rx="3.2" fill="#DE7441"><title>2026-10-22: 75,878,326 tokens</title></rect>
 <rect x="680.4" y="127.0" width="13.0" height="13.0" rx="3.2" fill="#B0552D"><title>2026-10-23: 26,977,360 tokens</title></rect>
 <rect x="680.4" y="143.2" width="13.0" height="13.0" rx="3.2" fill="#4A2A1E"><title>2026-10-24: 620,379 tokens</title></rect>
 <rect x="696.6" y="46.0" width="13.0" height="13.0" rx="3.2" fill="#24242A"/>
-<rect x="696.6" y="62.2" width="13.0" height="13.0" rx="3.2" fill="#DE7441"><title>2026-10-26: 65,318,278 tokens</title></rect>
-<rect x="696.6" y="78.4" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-10-27: 79,453,975 tokens</title></rect>
+<rect x="696.6" y="62.2" width="13.0" height="13.0" rx="3.2" fill="#DE7441"><title>2026-10-26: 65,352,538 tokens</title></rect>
+<rect x="696.6" y="78.4" width="13.0" height="13.0" rx="3.2" fill="#DE7441"><title>2026-10-27: 79,490,172 tokens</title></rect>
 <rect x="696.6" y="94.6" width="13.0" height="13.0" rx="3.2" fill="#DE7441"><title>2026-10-28: 50,994,929 tokens</title></rect>
 <rect x="696.6" y="110.8" width="13.0" height="13.0" rx="3.2" fill="#DE7441"><title>2026-10-29: 38,999,671 tokens</title></rect>
 <rect x="696.6" y="127.0" width="13.0" height="13.0" rx="3.2" fill="#B0552D"><title>2026-10-30: 13,634,479 tokens</title></rect>
-<rect x="696.6" y="143.2" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-10-31: 80,443,946 tokens</title></rect>
+<rect x="696.6" y="143.2" width="13.0" height="13.0" rx="3.2" fill="#DE7441"><title>2026-10-31: 80,443,946 tokens</title></rect>
 <rect x="712.8" y="46.0" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-11-01: 84,998,903 tokens</title></rect>
 <rect x="712.8" y="62.2" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-11-02: 90,118,123 tokens</title></rect>
 <rect x="712.8" y="78.4" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-11-03: 103,769,477 tokens</title></rect>
-<rect x="712.8" y="94.6" width="13.0" height="13.0" rx="3.2" fill="#7A3E25"><title>2026-11-04: 10,403,133 tokens</title></rect>
+<rect x="712.8" y="94.6" width="13.0" height="13.0" rx="3.2" fill="#7A3E25"><title>2026-11-04: 10,418,718 tokens</title></rect>
 <rect x="712.8" y="110.8" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-11-05: 102,316,268 tokens</title></rect>
 <rect x="712.8" y="127.0" width="13.0" height="13.0" rx="3.2" fill="#24242A"/>
 <rect x="712.8" y="143.2" width="13.0" height="13.0" rx="3.2" fill="#4A2A1E"><title>2026-11-07: 1,550,875 tokens</title></rect>
@@ -315,20 +315,20 @@
 <rect x="729.0" y="62.2" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-11-09: 187,127,747 tokens</title></rect>
 <rect x="729.0" y="78.4" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-11-10: 213,776,803 tokens</title></rect>
 <rect x="729.0" y="94.6" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-11-11: 96,926,762 tokens</title></rect>
-<rect x="729.0" y="110.8" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-11-12: 244,231,767 tokens</title></rect>
+<rect x="729.0" y="110.8" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-11-12: 244,356,000 tokens</title></rect>
 <rect x="729.0" y="127.0" width="13.0" height="13.0" rx="3.2" fill="#B0552D"><title>2026-11-13: 30,001,750 tokens</title></rect>
 <rect x="729.0" y="143.2" width="13.0" height="13.0" rx="3.2" fill="#B0552D"><title>2026-11-14: 14,075,465 tokens</title></rect>
 <rect x="745.2" y="46.0" width="13.0" height="13.0" rx="3.2" fill="#7A3E25"><title>2026-11-15: 3,594,548 tokens</title></rect>
-<rect x="745.2" y="62.2" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-11-16: 109,577,473 tokens</title></rect>
+<rect x="745.2" y="62.2" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-11-16: 110,790,065 tokens</title></rect>
 <rect x="745.2" y="78.4" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-11-17: 257,250,782 tokens</title></rect>
-<rect x="745.2" y="94.6" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-11-18: 188,358,833 tokens</title></rect>
-<rect x="745.2" y="110.8" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-11-19: 77,202,251 tokens</title></rect>
-<rect x="745.2" y="127.0" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-11-20: 92,303,121 tokens</title></rect>
+<rect x="745.2" y="94.6" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-11-18: 229,795,660 tokens</title></rect>
+<rect x="745.2" y="110.8" width="13.0" height="13.0" rx="3.2" fill="#DE7441"><title>2026-11-19: 77,202,251 tokens</title></rect>
+<rect x="745.2" y="127.0" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-11-20: 92,568,657 tokens</title></rect>
 <rect x="745.2" y="143.2" width="13.0" height="13.0" rx="3.2" fill="#B0552D"><title>2026-11-21: 30,621,003 tokens</title></rect>
 <rect x="761.4" y="46.0" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-11-22: 215,193,355 tokens</title></rect>
-<rect x="761.4" y="62.2" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-11-23: 244,642,351 tokens</title></rect>
-<rect x="761.4" y="78.4" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-11-24: 188,047,076 tokens</title></rect>
-<rect x="761.4" y="94.6" width="13.0" height="13.0" rx="3.2" fill="#B0552D"><title>2026-11-25: 18,743,266 tokens</title></rect>
+<rect x="761.4" y="62.2" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-11-23: 244,857,993 tokens</title></rect>
+<rect x="761.4" y="78.4" width="13.0" height="13.0" rx="3.2" fill="#F7A273"><title>2026-11-24: 188,253,071 tokens</title></rect>
+<rect x="761.4" y="94.6" width="13.0" height="13.0" rx="3.2" fill="#DE7441"><title>2026-11-25: 37,566,828 tokens</title></rect>
 <rect x="761.4" y="110.8" width="13.0" height="13.0" rx="3.2" fill="#24242A"/>
 <rect x="761.4" y="127.0" width="13.0" height="13.0" rx="3.2" fill="#24242A"/>
 <rect x="761.4" y="143.2" width="13.0" height="13.0" rx="3.2" fill="#24242A"/>
@@ -379,17 +379,17 @@
 <text x="793.8" y="172.6" font-size="12" fill="#9A9AA3">Dec</text>
 <text x="0" y="206.6" font-size="12.5" fill="#9A9AA3">Companies</text>
 <circle cx="81.0" cy="202.1" r="4.5" fill="#E58A6B"/>
-<text x="92.0" y="206.6" font-size="13"><tspan fill="#E6E6EA" font-weight="500">Anthropic</tspan><tspan fill="#9A9AA3" dx="6">48.7%</tspan></text>
+<text x="92.0" y="206.6" font-size="13"><tspan fill="#E6E6EA" font-weight="500">Anthropic</tspan><tspan fill="#9A9AA3" dx="6">45.3%</tspan></text>
 <circle cx="193.0" cy="202.1" r="4.5" fill="#7088FF"/>
-<text x="204.0" y="206.6" font-size="13"><tspan fill="#E6E6EA" font-weight="500">DeepSeek</tspan><tspan fill="#9A9AA3" dx="6">29.2%</tspan></text>
-<circle cx="305.0" cy="202.1" r="4.5" fill="#8AB4F8"/>
-<text x="316.0" y="206.6" font-size="13"><tspan fill="#E6E6EA" font-weight="500">Antigravity</tspan><tspan fill="#9A9AA3" dx="6">7.3%</tspan></text>
-<circle cx="417.0" cy="202.1" r="4.5" fill="#9A9EC9"/>
-<text x="428.0" y="206.6" font-size="13"><tspan fill="#E6E6EA" font-weight="500">OpenAI</tspan><tspan fill="#9A9AA3" dx="6">6.4%</tspan></text>
-<circle cx="529.0" cy="202.1" r="4.5" fill="#B8AD98"/>
-<text x="540.0" y="206.6" font-size="13"><tspan fill="#E6E6EA" font-weight="500">Cursor</tspan><tspan fill="#9A9AA3" dx="6">6.1%</tspan></text>
+<text x="204.0" y="206.6" font-size="13"><tspan fill="#E6E6EA" font-weight="500">DeepSeek</tspan><tspan fill="#9A9AA3" dx="6">26.9%</tspan></text>
+<circle cx="305.0" cy="202.1" r="4.5" fill="#B8AD98"/>
+<text x="316.0" y="206.6" font-size="13"><tspan fill="#E6E6EA" font-weight="500">Cursor</tspan><tspan fill="#9A9AA3" dx="6">11.0%</tspan></text>
+<circle cx="417.0" cy="202.1" r="4.5" fill="#8AB4F8"/>
+<text x="428.0" y="206.6" font-size="13"><tspan fill="#E6E6EA" font-weight="500">Antigravity</tspan><tspan fill="#9A9AA3" dx="6">6.7%</tspan></text>
+<circle cx="529.0" cy="202.1" r="4.5" fill="#9A9EC9"/>
+<text x="540.0" y="206.6" font-size="13"><tspan fill="#E6E6EA" font-weight="500">OpenAI</tspan><tspan fill="#9A9AA3" dx="6">5.8%</tspan></text>
 <circle cx="641.0" cy="202.1" r="4.5" fill="#5A5A62"/>
-<text x="652.0" y="206.6" font-size="13"><tspan fill="#E6E6EA" font-weight="500">Other</tspan><tspan fill="#9A9AA3" dx="6">2.2%</tspan></text>
+<text x="652.0" y="206.6" font-size="13"><tspan fill="#E6E6EA" font-weight="500">Other</tspan><tspan fill="#9A9AA3" dx="6">4.2%</tspan></text>
 <text x="746.4" y="234.6" font-size="11.5" fill="#9A9AA3" text-anchor="end">Less</text>
 <rect x="750.4" y="224.6" width="11" height="11" rx="2.6" fill="#24242A"/>
 <rect x="763.9" y="224.6" width="11" height="11" rx="2.6" fill="#4A2A1E"/>
