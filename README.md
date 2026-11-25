@@ -1,8 +1,8 @@
 ## Token Usage
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/token-usage-2026-dark.svg?v=8602d980fbb6">
-  <img alt="Token usage for 2026, a snake moving through the heatmap" src="assets/token-usage-2026-light.svg?v=86aae39c065c" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/token-usage-2026-dark.svg?v=408575c096aa">
+  <img alt="Token usage for 2026, a snake moving through the heatmap" src="assets/token-usage-2026-light.svg?v=d12d7791180c" width="100%">
 </picture>
 
 <details>
