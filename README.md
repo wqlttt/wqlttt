@@ -5,13 +5,10 @@
   <img alt="Token usage for 2026, cells disappear after they are eaten" src="https://raw.githubusercontent.com/wqlttt/wqlttt/main/assets/token-usage-2026-light.svg?v=649f7d7fab69" width="100%">
 </picture>
 
-<details>
-<summary><b>2025</b></summary>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/token-activity-2025-dark.svg?v=cf6ef84a2517">
-  <img alt="Token activity heatmap for 2025: 30.3M tokens. Companies: OpenAI 65.0%, Cursor 31.5%, Anthropic 3.5%." src="assets/token-activity-2025-light.svg?v=7fe1836d1b12" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wqlttt/wqlttt/main/assets/token-usage-2025-dark.svg?v=7482ec7236ce">
+  <img alt="Token usage for 2025, cells disappear after they are eaten" src="https://raw.githubusercontent.com/wqlttt/wqlttt/main/assets/token-usage-2025-light.svg?v=96a37756552e" width="100%">
 </picture>
-</details>
 
 ## 🐍 My GitHub Contribution Snake
 
