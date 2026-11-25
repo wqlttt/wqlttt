@@ -1,8 +1,8 @@
 ## Token Usage
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wqlttt/wqlttt/main/assets/token-usage-2026-dark.svg?v=51255d0aefe7">
-  <img alt="Token usage for 2026, cells disappear after they are eaten" src="https://raw.githubusercontent.com/wqlttt/wqlttt/main/assets/token-usage-2026-light.svg?v=087fa089bdab" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wqlttt/wqlttt/main/assets/token-usage-2026-dark.svg?v=2968f3e72169">
+  <img alt="Token usage for 2026, cells disappear after they are eaten" src="https://raw.githubusercontent.com/wqlttt/wqlttt/main/assets/token-usage-2026-light.svg?v=649f7d7fab69" width="100%">
 </picture>
 
 <details>
